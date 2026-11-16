@@ -19,7 +19,7 @@
 - [负向验证 PR #2](https://github.com/zhuxinfei/dialectical-strategic-advisor/pull/2)：候选 `47b804a51a6f636e03488326aaa3ec430a4e7061` 仅追加skill测试注释并刷新manifest。可信base门禁失败，日志为 `FAIL: protected change: SKILL.md`；对应check-run的head_sha确实为候选SHA，来源GitHub Actions app 15368。[运行记录](https://github.com/zhuxinfei/dialectical-strategic-advisor/actions/runs/43794628588)。测试PR已关闭，未合并，main skill没有变化。
 - main分支保护PUT后已GET回读：必需 `foundation-guard` 且绑定app 15368、strict=true、enforce_admins=true；禁止force push和删除；要求PR、解决讨论；未要求独立审批票数（个人所有者不能审批本人PR），没有自动合并。
 - 启用保护后PR #2的API `mergeable_state` 为 `blocked`。没有为了试验尝试强行合并底座修改。
-- 本报告自身是普通研究PR正向验证内容；将通过可信base检查后手动合并，最终状态以其CI与合并记录为准。原文含义审核和独立身份限制仍见下节。
+- [正向验证 PR #3](https://github.com/zhuxinfei/dialectical-strategic-advisor/pull/3)：仅更新文档和manifest；候选 `c207e59fc7cbce2f4bb588795f30ce6e31e89fc8` 的 foundation-guard 与 verification 均成功，check-run head_sha为该候选，API合并状态为 `clean`。[门禁运行](https://github.com/zhuxinfei/dialectical-strategic-advisor/actions/runs/43794900353)。本次补记后仍需最新CI通过再手动合并；最终提交和合并状态以PR记录为准。原文含义审核和独立身份限制仍见下节。
 
 ## 不能由本次工程替代的事项
 
