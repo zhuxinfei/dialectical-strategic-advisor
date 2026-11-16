@@ -1,0 +1,23 @@
+name: Verify artifacts
+
+on:
+  push:
+    branches: [main, codex/foundation-governance]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out proposed artifacts
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Run regression tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Verify files and source anchors
+        run: python3 scripts/guard.py verify
