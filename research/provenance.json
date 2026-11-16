@@ -1,0 +1,8 @@
+{
+  "source": "MX1-4.txt",
+  "sha256": "6c387c27e081745645678475d5eb2b60e6bf051e7741bc9419454a1ca6952d16",
+  "encoding": "gb18030",
+  "source_included": false,
+  "reading_copies": "reading-copies/",
+  "note": "保留原始语料指纹与编码。公开整理版将机器绝对路径替换为仓库相对路径；阅读副本和现行 SKILL.md 保持原字节内容。"
+}

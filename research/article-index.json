@@ -1,0 +1,1274 @@
+[
+  {
+    "number": 1,
+    "volume": 1,
+    "title": "中国社会各阶级的分析",
+    "start_line": 3,
+    "end_line": 35,
+    "characters": 6598
+  },
+  {
+    "number": 2,
+    "volume": 1,
+    "title": "湖南农民运动考察报告",
+    "start_line": 37,
+    "end_line": 168,
+    "characters": 20527
+  },
+  {
+    "number": 3,
+    "volume": 1,
+    "title": "中国的红色政权为什么能够存在？",
+    "start_line": 170,
+    "end_line": 206,
+    "characters": 6536
+  },
+  {
+    "number": 4,
+    "volume": 1,
+    "title": "井冈山的斗争",
+    "start_line": 208,
+    "end_line": 297,
+    "characters": 18178
+  },
+  {
+    "number": 5,
+    "volume": 1,
+    "title": "关于纠正党内的错误思想",
+    "start_line": 299,
+    "end_line": 381,
+    "characters": 6607
+  },
+  {
+    "number": 6,
+    "volume": 1,
+    "title": "星星之火，可以燎原",
+    "start_line": 383,
+    "end_line": 427,
+    "characters": 8125
+  },
+  {
+    "number": 7,
+    "volume": 1,
+    "title": "反对本本主义",
+    "start_line": 429,
+    "end_line": 502,
+    "characters": 5176
+  },
+  {
+    "number": 8,
+    "volume": 1,
+    "title": "必须注意经济工作",
+    "start_line": 504,
+    "end_line": 525,
+    "characters": 5161
+  },
+  {
+    "number": 9,
+    "volume": 1,
+    "title": "怎样分析农村阶级",
+    "start_line": 527,
+    "end_line": 725,
+    "characters": 1354
+  },
+  {
+    "number": 10,
+    "volume": 1,
+    "title": "我们的经济政策",
+    "start_line": 727,
+    "end_line": 750,
+    "characters": 3285
+  },
+  {
+    "number": 11,
+    "volume": 1,
+    "title": "关心群众生活，注意工作方法",
+    "start_line": 752,
+    "end_line": 777,
+    "characters": 3671
+  },
+  {
+    "number": 12,
+    "volume": 1,
+    "title": "论反对日本帝国主义的策略",
+    "start_line": 779,
+    "end_line": 883,
+    "characters": 20776
+  },
+  {
+    "number": 13,
+    "volume": 1,
+    "title": "中国革命战争的战略问题",
+    "start_line": 885,
+    "end_line": 1194,
+    "characters": 48532
+  },
+  {
+    "number": 14,
+    "volume": 1,
+    "title": "关于蒋介石声明的声明",
+    "start_line": 1196,
+    "end_line": 1218,
+    "characters": 5186
+  },
+  {
+    "number": 15,
+    "volume": 1,
+    "title": "中国共产党在抗日时期的任务",
+    "start_line": 1220,
+    "end_line": 1284,
+    "characters": 14704
+  },
+  {
+    "number": 16,
+    "volume": 1,
+    "title": "为争取千百万群众进入抗日民族统一战线而斗争",
+    "start_line": 1286,
+    "end_line": 1338,
+    "characters": 6496
+  },
+  {
+    "number": 17,
+    "volume": 1,
+    "title": "实践论",
+    "start_line": 1340,
+    "end_line": 1385,
+    "characters": 11022
+  },
+  {
+    "number": 18,
+    "volume": 1,
+    "title": "矛盾论",
+    "start_line": 1387,
+    "end_line": 1549,
+    "characters": 27176
+  },
+  {
+    "number": 19,
+    "volume": 2,
+    "title": "反对日本进攻的方针、办法和前途",
+    "start_line": 1551,
+    "end_line": 1617,
+    "characters": 5060
+  },
+  {
+    "number": 20,
+    "volume": 2,
+    "title": "为动员一切力量争取抗战胜利而斗争",
+    "start_line": 1619,
+    "end_line": 1688,
+    "characters": 3419
+  },
+  {
+    "number": 21,
+    "volume": 2,
+    "title": "反对自由主义",
+    "start_line": 1690,
+    "end_line": 1716,
+    "characters": 1473
+  },
+  {
+    "number": 22,
+    "volume": 2,
+    "title": "国共合作成立后的迫切任务",
+    "start_line": 1718,
+    "end_line": 1748,
+    "characters": 6865
+  },
+  {
+    "number": 23,
+    "volume": 2,
+    "title": "和英国记者贝特兰的谈话",
+    "start_line": 1750,
+    "end_line": 1811,
+    "characters": 7917
+  },
+  {
+    "number": 24,
+    "volume": 2,
+    "title": "上海太原失陷以后抗日战争的形势和任务",
+    "start_line": 1813,
+    "end_line": 1897,
+    "characters": 9824
+  },
+  {
+    "number": 25,
+    "volume": 2,
+    "title": "陕甘宁边区政府第八路军后方留守处布告",
+    "start_line": 1899,
+    "end_line": 1914,
+    "characters": 1744
+  },
+  {
+    "number": 26,
+    "volume": 2,
+    "title": "抗日游击战争的战略问题",
+    "start_line": 1916,
+    "end_line": 2038,
+    "characters": 20979
+  },
+  {
+    "number": 27,
+    "volume": 2,
+    "title": "论持久战",
+    "start_line": 2040,
+    "end_line": 2249,
+    "characters": 51762
+  },
+  {
+    "number": 28,
+    "volume": 2,
+    "title": "中国共产党在民族战争中的地位",
+    "start_line": 2251,
+    "end_line": 2312,
+    "characters": 10544
+  },
+  {
+    "number": 29,
+    "volume": 2,
+    "title": "统一战线中的独立自主问题",
+    "start_line": 2314,
+    "end_line": 2332,
+    "characters": 2445
+  },
+  {
+    "number": 30,
+    "volume": 2,
+    "title": "战争和战略问题",
+    "start_line": 2334,
+    "end_line": 2405,
+    "characters": 11249
+  },
+  {
+    "number": 31,
+    "volume": 2,
+    "title": "五四运动",
+    "start_line": 2407,
+    "end_line": 2425,
+    "characters": 1501
+  },
+  {
+    "number": 32,
+    "volume": 2,
+    "title": "青年运动的方向",
+    "start_line": 2427,
+    "end_line": 2453,
+    "characters": 5912
+  },
+  {
+    "number": 33,
+    "volume": 2,
+    "title": "反对投降活动",
+    "start_line": 2455,
+    "end_line": 2484,
+    "characters": 3270
+  },
+  {
+    "number": 34,
+    "volume": 2,
+    "title": "必须制裁反动派",
+    "start_line": 2486,
+    "end_line": 2502,
+    "characters": 2894
+  },
+  {
+    "number": 35,
+    "volume": 2,
+    "title": "关于国际新形势对新华日报⑴记者的谈话",
+    "start_line": 2504,
+    "end_line": 2541,
+    "characters": 4298
+  },
+  {
+    "number": 36,
+    "volume": 2,
+    "title": "和中央社、扫荡报、新民报⑴三记者的谈话",
+    "start_line": 2543,
+    "end_line": 2579,
+    "characters": 3570
+  },
+  {
+    "number": 37,
+    "volume": 2,
+    "title": "苏联利益和人类利益的一致",
+    "start_line": 2581,
+    "end_line": 2603,
+    "characters": 6012
+  },
+  {
+    "number": 38,
+    "volume": 2,
+    "title": "《共产党人》发刊词",
+    "start_line": 2605,
+    "end_line": 2635,
+    "characters": 8513
+  },
+  {
+    "number": 39,
+    "volume": 2,
+    "title": "目前形势和党的任务",
+    "start_line": 2637,
+    "end_line": 2648,
+    "characters": 1336
+  },
+  {
+    "number": 40,
+    "volume": 2,
+    "title": "大量吸收知识分子",
+    "start_line": 2650,
+    "end_line": 2659,
+    "characters": 1390
+  },
+  {
+    "number": 41,
+    "volume": 2,
+    "title": "中国革命和中国共产党",
+    "start_line": 2661,
+    "end_line": 2843,
+    "characters": 22164
+  },
+  {
+    "number": 42,
+    "volume": 2,
+    "title": "斯大林是中国人民的朋友",
+    "start_line": 2845,
+    "end_line": 2863,
+    "characters": 922
+  },
+  {
+    "number": 43,
+    "volume": 2,
+    "title": "纪念白求恩",
+    "start_line": 2865,
+    "end_line": 2876,
+    "characters": 1334
+  },
+  {
+    "number": 44,
+    "volume": 2,
+    "title": "新民主主义论",
+    "start_line": 2878,
+    "end_line": 3067,
+    "characters": 31871
+  },
+  {
+    "number": 45,
+    "volume": 2,
+    "title": "克服投降危险，力争时局好转",
+    "start_line": 3069,
+    "end_line": 3080,
+    "characters": 1856
+  },
+  {
+    "number": 46,
+    "volume": 2,
+    "title": "团结一切抗日力量，反对反共顽固派",
+    "start_line": 3082,
+    "end_line": 3108,
+    "characters": 4087
+  },
+  {
+    "number": 47,
+    "volume": 2,
+    "title": "向国民党的十点要求",
+    "start_line": 3110,
+    "end_line": 3136,
+    "characters": 3599
+  },
+  {
+    "number": 48,
+    "volume": 2,
+    "title": "《中国工人》发刊词",
+    "start_line": 3138,
+    "end_line": 3152,
+    "characters": 966
+  },
+  {
+    "number": 49,
+    "volume": 2,
+    "title": "必须强调团结和进步",
+    "start_line": 3154,
+    "end_line": 3166,
+    "characters": 1070
+  },
+  {
+    "number": 50,
+    "volume": 2,
+    "title": "新民主主义的宪政",
+    "start_line": 3168,
+    "end_line": 3202,
+    "characters": 6307
+  },
+  {
+    "number": 51,
+    "volume": 2,
+    "title": "抗日根据地的政权问题",
+    "start_line": 3204,
+    "end_line": 3223,
+    "characters": 1599
+  },
+  {
+    "number": 52,
+    "volume": 2,
+    "title": "目前抗日统一战线中的策略问题",
+    "start_line": 3225,
+    "end_line": 3245,
+    "characters": 5611
+  },
+  {
+    "number": 53,
+    "volume": 2,
+    "title": "放手发展抗日力量，抵抗反共顽固派的进攻",
+    "start_line": 3247,
+    "end_line": 3272,
+    "characters": 3962
+  },
+  {
+    "number": 54,
+    "volume": 2,
+    "title": "团结到底",
+    "start_line": 3274,
+    "end_line": 3285,
+    "characters": 1728
+  },
+  {
+    "number": 55,
+    "volume": 2,
+    "title": "论政策",
+    "start_line": 3287,
+    "end_line": 3327,
+    "characters": 5370
+  },
+  {
+    "number": 56,
+    "volume": 2,
+    "title": "为皖南事变发表的命令和谈话",
+    "start_line": 3329,
+    "end_line": 3379,
+    "characters": 3936
+  },
+  {
+    "number": 57,
+    "volume": 2,
+    "title": "打退第二次反共高潮后的时局",
+    "start_line": 3381,
+    "end_line": 3398,
+    "characters": 1833
+  },
+  {
+    "number": 58,
+    "volume": 2,
+    "title": "关于打退第二次反共高潮的总结",
+    "start_line": 3400,
+    "end_line": 3425,
+    "characters": 3567
+  },
+  {
+    "number": 59,
+    "volume": 3,
+    "title": "《农村调查》的序言和跋",
+    "start_line": 3427,
+    "end_line": 3449,
+    "characters": 3353
+  },
+  {
+    "number": 60,
+    "volume": 3,
+    "title": "改造我们的学习",
+    "start_line": 3451,
+    "end_line": 3492,
+    "characters": 5325
+  },
+  {
+    "number": 61,
+    "volume": 3,
+    "title": "揭破远东慕尼黑的阴谋",
+    "start_line": 3494,
+    "end_line": 3506,
+    "characters": 754
+  },
+  {
+    "number": 62,
+    "volume": 3,
+    "title": "关于反法西斯的国际统一战线",
+    "start_line": 3508,
+    "end_line": 3520,
+    "characters": 417
+  },
+  {
+    "number": 63,
+    "volume": 3,
+    "title": "在陕甘宁边区参议会的演说",
+    "start_line": 3522,
+    "end_line": 3532,
+    "characters": 2277
+  },
+  {
+    "number": 64,
+    "volume": 3,
+    "title": "整顿党的作风",
+    "start_line": 3534,
+    "end_line": 3595,
+    "characters": 11692
+  },
+  {
+    "number": 65,
+    "volume": 3,
+    "title": "反对党八股",
+    "start_line": 3597,
+    "end_line": 3664,
+    "characters": 11117
+  },
+  {
+    "number": 66,
+    "volume": 3,
+    "title": "在延安文艺座谈会上的讲话",
+    "start_line": 3666,
+    "end_line": 3745,
+    "characters": 20599
+  },
+  {
+    "number": 67,
+    "volume": 3,
+    "title": "一个极其重要的政策",
+    "start_line": 3747,
+    "end_line": 3762,
+    "characters": 2411
+  },
+  {
+    "number": 68,
+    "volume": 3,
+    "title": "第二次世界大战的转折点",
+    "start_line": 3764,
+    "end_line": 3779,
+    "characters": 3192
+  },
+  {
+    "number": 69,
+    "volume": 3,
+    "title": "祝十月革命二十五周年",
+    "start_line": 3781,
+    "end_line": 3791,
+    "characters": 425
+  },
+  {
+    "number": 70,
+    "volume": 3,
+    "title": "抗日时期的经济问题和财政问题",
+    "start_line": 3793,
+    "end_line": 3812,
+    "characters": 3602
+  },
+  {
+    "number": 71,
+    "volume": 3,
+    "title": "关于领导方法的若干问题",
+    "start_line": 3814,
+    "end_line": 3832,
+    "characters": 3517
+  },
+  {
+    "number": 72,
+    "volume": 3,
+    "title": "质问国民党",
+    "start_line": 3834,
+    "end_line": 3874,
+    "characters": 4296
+  },
+  {
+    "number": 73,
+    "volume": 3,
+    "title": "开展根据地的减租、生产和拥政爱民运动",
+    "start_line": 3876,
+    "end_line": 3889,
+    "characters": 2373
+  },
+  {
+    "number": 74,
+    "volume": 3,
+    "title": "评国民党十一中全会和三届二次国民参政会",
+    "start_line": 3891,
+    "end_line": 3925,
+    "characters": 8870
+  },
+  {
+    "number": 75,
+    "volume": 3,
+    "title": "组织起来",
+    "start_line": 3927,
+    "end_line": 3951,
+    "characters": 5437
+  },
+  {
+    "number": 76,
+    "volume": 3,
+    "title": "学习和时局",
+    "start_line": 3953,
+    "end_line": 4122,
+    "characters": 41658
+  },
+  {
+    "number": 77,
+    "volume": 3,
+    "title": "为人民服务",
+    "start_line": 4124,
+    "end_line": 4140,
+    "characters": 1163
+  },
+  {
+    "number": 78,
+    "volume": 3,
+    "title": "评蒋介石在双十节的演说",
+    "start_line": 4142,
+    "end_line": 4155,
+    "characters": 2555
+  },
+  {
+    "number": 79,
+    "volume": 3,
+    "title": "文化工作中的统一战线",
+    "start_line": 4157,
+    "end_line": 4169,
+    "characters": 1327
+  },
+  {
+    "number": 80,
+    "volume": 3,
+    "title": "必须学会做经济工作",
+    "start_line": 4171,
+    "end_line": 4199,
+    "characters": 4080
+  },
+  {
+    "number": 81,
+    "volume": 3,
+    "title": "游击区也能够进行生产",
+    "start_line": 4201,
+    "end_line": 4218,
+    "characters": 1945
+  },
+  {
+    "number": 82,
+    "volume": 3,
+    "title": "两个中国之命运",
+    "start_line": 4220,
+    "end_line": 4247,
+    "characters": 1754
+  },
+  {
+    "number": 83,
+    "volume": 3,
+    "title": "论联合政府",
+    "start_line": 4249,
+    "end_line": 4539,
+    "characters": 43883
+  },
+  {
+    "number": 84,
+    "volume": 3,
+    "title": "愚公移山",
+    "start_line": 4541,
+    "end_line": 4558,
+    "characters": 2398
+  },
+  {
+    "number": 85,
+    "volume": 3,
+    "title": "论军队生产自给，兼论整风和生产两大运动的重要性",
+    "start_line": 4560,
+    "end_line": 4578,
+    "characters": 2730
+  },
+  {
+    "number": 86,
+    "volume": 3,
+    "title": "赫尔利和蒋介石的双簧已经破产",
+    "start_line": 4580,
+    "end_line": 4592,
+    "characters": 2296
+  },
+  {
+    "number": 87,
+    "volume": 3,
+    "title": "评赫尔利政策的危险",
+    "start_line": 4594,
+    "end_line": 4604,
+    "characters": 1094
+  },
+  {
+    "number": 88,
+    "volume": 3,
+    "title": "给福斯特同志的电报",
+    "start_line": 4606,
+    "end_line": 4615,
+    "characters": 883
+  },
+  {
+    "number": 89,
+    "volume": 3,
+    "title": "对日寇的最后一战",
+    "start_line": 4617,
+    "end_line": 4624,
+    "characters": 562
+  },
+  {
+    "number": 90,
+    "volume": 4,
+    "title": "抗日战争胜利后的时局和我们的方针",
+    "start_line": 4626,
+    "end_line": 4668,
+    "characters": 9352
+  },
+  {
+    "number": 91,
+    "volume": 4,
+    "title": "蒋介石在挑动内战",
+    "start_line": 4670,
+    "end_line": 4688,
+    "characters": 2685
+  },
+  {
+    "number": 92,
+    "volume": 4,
+    "title": "第十八集团军总司令给蒋介石的两个电报",
+    "start_line": 4690,
+    "end_line": 4718,
+    "characters": 4254
+  },
+  {
+    "number": 93,
+    "volume": 4,
+    "title": "评蒋介石发言人谈话",
+    "start_line": 4720,
+    "end_line": 4733,
+    "characters": 2508
+  },
+  {
+    "number": 94,
+    "volume": 4,
+    "title": "中共中央关于同国民党进行和平谈判的通知",
+    "start_line": 4735,
+    "end_line": 4754,
+    "characters": 2492
+  },
+  {
+    "number": 95,
+    "volume": 4,
+    "title": "关于重庆谈判",
+    "start_line": 4756,
+    "end_line": 4781,
+    "characters": 7601
+  },
+  {
+    "number": 96,
+    "volume": 4,
+    "title": "国民党进攻的真相",
+    "start_line": 4783,
+    "end_line": 4801,
+    "characters": 3025
+  },
+  {
+    "number": 97,
+    "volume": 4,
+    "title": "减租和生产是保卫解放区的两件大事",
+    "start_line": 4803,
+    "end_line": 4815,
+    "characters": 1135
+  },
+  {
+    "number": 98,
+    "volume": 4,
+    "title": "一九四六年解放区工作的方针",
+    "start_line": 4817,
+    "end_line": 4842,
+    "characters": 2824
+  },
+  {
+    "number": 99,
+    "volume": 4,
+    "title": "建立巩固的东北根据地",
+    "start_line": 4844,
+    "end_line": 4861,
+    "characters": 2892
+  },
+  {
+    "number": 100,
+    "volume": 4,
+    "title": "关于目前国际形势的几点估计",
+    "start_line": 4863,
+    "end_line": 4872,
+    "characters": 972
+  },
+  {
+    "number": 101,
+    "volume": 4,
+    "title": "以自卫战争粉碎蒋介石的进攻",
+    "start_line": 4874,
+    "end_line": 4889,
+    "characters": 4317
+  },
+  {
+    "number": 102,
+    "volume": 4,
+    "title": "和美国记者安娜·路易斯·斯特朗⑴的谈话",
+    "start_line": 4891,
+    "end_line": 4922,
+    "characters": 3872
+  },
+  {
+    "number": 103,
+    "volume": 4,
+    "title": "集中优势兵力，各个歼灭敌人",
+    "start_line": 4924,
+    "end_line": 4948,
+    "characters": 2925
+  },
+  {
+    "number": 104,
+    "volume": 4,
+    "title": "美国“调解”真相和中国内战前途",
+    "start_line": 4950,
+    "end_line": 4969,
+    "characters": 1885
+  },
+  {
+    "number": 105,
+    "volume": 4,
+    "title": "三个月总结",
+    "start_line": 4971,
+    "end_line": 5006,
+    "characters": 3824
+  },
+  {
+    "number": 106,
+    "volume": 4,
+    "title": "迎接中国革命的新高潮",
+    "start_line": 5008,
+    "end_line": 5041,
+    "characters": 5282
+  },
+  {
+    "number": 107,
+    "volume": 4,
+    "title": "中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件",
+    "start_line": 5043,
+    "end_line": 5064,
+    "characters": 1974
+  },
+  {
+    "number": 108,
+    "volume": 4,
+    "title": "关于西北战场的作战方针",
+    "start_line": 5066,
+    "end_line": 5081,
+    "characters": 920
+  },
+  {
+    "number": 109,
+    "volume": 4,
+    "title": "蒋介石政府已处在全民的包围中",
+    "start_line": 5083,
+    "end_line": 5106,
+    "characters": 2997
+  },
+  {
+    "number": 110,
+    "volume": 4,
+    "title": "解放战争第二年的战略方针",
+    "start_line": 5108,
+    "end_line": 5126,
+    "characters": 3872
+  },
+  {
+    "number": 111,
+    "volume": 4,
+    "title": "中国人民解放军宣言",
+    "start_line": 5128,
+    "end_line": 5163,
+    "characters": 3450
+  },
+  {
+    "number": 112,
+    "volume": 4,
+    "title": "中国人民解放军总部关于重行颁布三大纪律八项注意的训令",
+    "start_line": 5165,
+    "end_line": 5177,
+    "characters": 735
+  },
+  {
+    "number": 113,
+    "volume": 4,
+    "title": "目前形势和我们的任务",
+    "start_line": 5179,
+    "end_line": 5215,
+    "characters": 13488
+  },
+  {
+    "number": 114,
+    "volume": 4,
+    "title": "关于建立报告制度",
+    "start_line": 5217,
+    "end_line": 5227,
+    "characters": 1535
+  },
+  {
+    "number": 115,
+    "volume": 4,
+    "title": "关于目前党的政策中的几个重要问题",
+    "start_line": 5229,
+    "end_line": 5261,
+    "characters": 4142
+  },
+  {
+    "number": 116,
+    "volume": 4,
+    "title": "军队内部的民主运动",
+    "start_line": 5263,
+    "end_line": 5277,
+    "characters": 858
+  },
+  {
+    "number": 117,
+    "volume": 4,
+    "title": "在不同地区实施土地法的不同策略",
+    "start_line": 5279,
+    "end_line": 5294,
+    "characters": 1196
+  },
+  {
+    "number": 118,
+    "volume": 4,
+    "title": "纠正土地改革宣传中的“左”倾错误",
+    "start_line": 5296,
+    "end_line": 5308,
+    "characters": 1145
+  },
+  {
+    "number": 119,
+    "volume": 4,
+    "title": "新解放区土地改革要点",
+    "start_line": 5310,
+    "end_line": 5327,
+    "characters": 939
+  },
+  {
+    "number": 120,
+    "volume": 4,
+    "title": "关于工商业政策",
+    "start_line": 5329,
+    "end_line": 5339,
+    "characters": 1123
+  },
+  {
+    "number": 121,
+    "volume": 4,
+    "title": "关于民族资产阶级和开明绅士问题",
+    "start_line": 5341,
+    "end_line": 5354,
+    "characters": 2250
+  },
+  {
+    "number": 122,
+    "volume": 4,
+    "title": "评西北大捷兼论解放军的新式整军运动",
+    "start_line": 5356,
+    "end_line": 5377,
+    "characters": 4298
+  },
+  {
+    "number": 123,
+    "volume": 4,
+    "title": "关于情况的通报",
+    "start_line": 5379,
+    "end_line": 5400,
+    "characters": 4762
+  },
+  {
+    "number": 124,
+    "volume": 4,
+    "title": "在晋绥干部会议上的讲话",
+    "start_line": 5402,
+    "end_line": 5443,
+    "characters": 7879
+  },
+  {
+    "number": 125,
+    "volume": 4,
+    "title": "对晋绥日报编辑人员的谈话",
+    "start_line": 5445,
+    "end_line": 5463,
+    "characters": 2845
+  },
+  {
+    "number": 126,
+    "volume": 4,
+    "title": "再克洛阳后给洛阳前线指挥部的电报",
+    "start_line": 5465,
+    "end_line": 5483,
+    "characters": 1175
+  },
+  {
+    "number": 127,
+    "volume": 4,
+    "title": "新解放区农村工作的策略问题",
+    "start_line": 5485,
+    "end_line": 5492,
+    "characters": 569
+  },
+  {
+    "number": 128,
+    "volume": 4,
+    "title": "一九四八年的土地改革工作和整党工作",
+    "start_line": 5494,
+    "end_line": 5518,
+    "characters": 3152
+  },
+  {
+    "number": 129,
+    "volume": 4,
+    "title": "关于辽沈战役⑴的作战方针",
+    "start_line": 5520,
+    "end_line": 5537,
+    "characters": 3720
+  },
+  {
+    "number": 130,
+    "volume": 4,
+    "title": "关于健全党委制",
+    "start_line": 5539,
+    "end_line": 5546,
+    "characters": 912
+  },
+  {
+    "number": 131,
+    "volume": 4,
+    "title": "中共中央关于九月会议的通知",
+    "start_line": 5548,
+    "end_line": 5584,
+    "characters": 5684
+  },
+  {
+    "number": 132,
+    "volume": 4,
+    "title": "关于淮海战役的的作战方针",
+    "start_line": 5586,
+    "end_line": 5605,
+    "characters": 2864
+  },
+  {
+    "number": 133,
+    "volume": 4,
+    "title": "全世界革命力量团结起来，反对帝国主义的侵略",
+    "start_line": 5607,
+    "end_line": 5622,
+    "characters": 2300
+  },
+  {
+    "number": 134,
+    "volume": 4,
+    "title": "中国军事形势的重大变化",
+    "start_line": 5624,
+    "end_line": 5638,
+    "characters": 1457
+  },
+  {
+    "number": 135,
+    "volume": 4,
+    "title": "关于平津战役⑴的作战方针",
+    "start_line": 5640,
+    "end_line": 5668,
+    "characters": 3027
+  },
+  {
+    "number": 136,
+    "volume": 4,
+    "title": "敦促杜聿明等投降书",
+    "start_line": 5670,
+    "end_line": 5685,
+    "characters": 1596
+  },
+  {
+    "number": 137,
+    "volume": 4,
+    "title": "将革命进行到底",
+    "start_line": 5687,
+    "end_line": 5714,
+    "characters": 5886
+  },
+  {
+    "number": 138,
+    "volume": 4,
+    "title": "评战犯求和",
+    "start_line": 5716,
+    "end_line": 5737,
+    "characters": 2757
+  },
+  {
+    "number": 139,
+    "volume": 4,
+    "title": "中共中央毛泽东主席关于时局的声明",
+    "start_line": 5739,
+    "end_line": 5751,
+    "characters": 2712
+  },
+  {
+    "number": 140,
+    "volume": 4,
+    "title": "中共发言人评南京行政院的决议",
+    "start_line": 5753,
+    "end_line": 5759,
+    "characters": 1157
+  },
+  {
+    "number": 141,
+    "volume": 4,
+    "title": "中共发言人关于命令国民党反动政府重新逮捕前日本侵华军总司令冈村宁次和逮捕国民党内战罪犯的谈话",
+    "start_line": 5761,
+    "end_line": 5783,
+    "characters": 4532
+  },
+  {
+    "number": 142,
+    "volume": 4,
+    "title": "中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明",
+    "start_line": 5785,
+    "end_line": 5794,
+    "characters": 2490
+  },
+  {
+    "number": 143,
+    "volume": 4,
+    "title": "把军队变为工作队",
+    "start_line": 5796,
+    "end_line": 5807,
+    "characters": 1676
+  },
+  {
+    "number": 144,
+    "volume": 4,
+    "title": "四分五裂的反动派为什么还要空喊“全面和平”？",
+    "start_line": 5809,
+    "end_line": 5829,
+    "characters": 3344
+  },
+  {
+    "number": 145,
+    "volume": 4,
+    "title": "国民党反动派由“呼吁和平”变为呼吁战争",
+    "start_line": 5831,
+    "end_line": 5837,
+    "characters": 1419
+  },
+  {
+    "number": 146,
+    "volume": 4,
+    "title": "评国民党对战争责任问题的几种答案",
+    "start_line": 5839,
+    "end_line": 5865,
+    "characters": 4610
+  },
+  {
+    "number": 147,
+    "volume": 4,
+    "title": "在中国共产党第七届中央委员会第二次全体会议上的报告",
+    "start_line": 5867,
+    "end_line": 5906,
+    "characters": 9549
+  },
+  {
+    "number": 148,
+    "volume": 4,
+    "title": "党委会的工作方法",
+    "start_line": 5908,
+    "end_line": 5931,
+    "characters": 3028
+  },
+  {
+    "number": 149,
+    "volume": 4,
+    "title": "南京政府向何处去？",
+    "start_line": 5933,
+    "end_line": 5949,
+    "characters": 1882
+  },
+  {
+    "number": 150,
+    "volume": 4,
+    "title": "向全国进军的命令",
+    "start_line": 5951,
+    "end_line": 6015,
+    "characters": 6803
+  },
+  {
+    "number": 151,
+    "volume": 4,
+    "title": "中国人民解放军布告",
+    "start_line": 6017,
+    "end_line": 6037,
+    "characters": 1625
+  },
+  {
+    "number": 152,
+    "volume": 4,
+    "title": "中国人民解放军总部发言人为英国军舰暴行⑴发表的声明",
+    "start_line": 6039,
+    "end_line": 6051,
+    "characters": 1729
+  },
+  {
+    "number": 153,
+    "volume": 4,
+    "title": "在新政治协商会议筹备会上的讲话",
+    "start_line": 6053,
+    "end_line": 6077,
+    "characters": 2835
+  },
+  {
+    "number": 154,
+    "volume": 4,
+    "title": "论人民民主专政",
+    "start_line": 6079,
+    "end_line": 6134,
+    "characters": 9451
+  },
+  {
+    "number": 155,
+    "volume": 4,
+    "title": "丢掉幻想，准备斗争",
+    "start_line": 6136,
+    "end_line": 6170,
+    "characters": 4828
+  },
+  {
+    "number": 156,
+    "volume": 4,
+    "title": "别了，司徒雷登",
+    "start_line": 6172,
+    "end_line": 6207,
+    "characters": 5286
+  },
+  {
+    "number": 157,
+    "volume": 4,
+    "title": "为什么要讨论白皮书？",
+    "start_line": 6209,
+    "end_line": 6228,
+    "characters": 3895
+  },
+  {
+    "number": 158,
+    "volume": 4,
+    "title": "“友谊”，还是侵略？",
+    "start_line": 6230,
+    "end_line": 6256,
+    "characters": 2226
+  },
+  {
+    "number": 159,
+    "volume": 4,
+    "title": "唯心历史观的破产",
+    "start_line": 6258,
+    "end_line": 6283,
+    "characters": 4902
+  }
+]
