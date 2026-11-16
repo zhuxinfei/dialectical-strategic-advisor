@@ -1,0 +1,28 @@
+name: Foundation guard
+
+on:
+  pull_request_target:
+    branches: [main]
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: read
+
+jobs:
+  foundation-guard:
+    name: foundation-guard
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out trusted target revision
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Read candidate as Git objects, never execute candidate code
+        env:
+          TRUSTED_SHA: ${{ github.event.pull_request.base.sha }}
+          CANDIDATE_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          git fetch --no-tags origin "$CANDIDATE_SHA"
+          python3 scripts/guard.py review --base "$TRUSTED_SHA" --head "$CANDIDATE_SHA"

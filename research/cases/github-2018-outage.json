@@ -1,0 +1,54 @@
+{
+  "id": "CASE-GITHUB-2018-10-21",
+  "title": "短暂网络中断后的系统连锁影响与恢复取舍",
+  "status": "researched_example_not_effectiveness_evaluation",
+  "related_principles": ["P02", "P03", "P05", "P07"],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://github.blog/news-insights/company-news/oct21-post-incident-analysis/",
+      "publisher": "GitHub Blog / Jason Warner",
+      "published_at": "2018-10-30",
+      "updated_at": "2021-12-19",
+      "retrieved_at": "2026-11-16",
+      "relationship": "first_party",
+      "origin_group": "github-official-incident-report",
+      "excerpt": "Connectivity between these locations was restored in 43 seconds, but this brief outage triggered a chain of events that led to 24 hours and 11 minutes of service degradation.",
+      "additional_excerpt": "our strategy was to prioritize data integrity over site usability and time to recovery."
+    },
+    {
+      "id": "S2",
+      "url": "https://hn.algolia.com/api/v1/items/18341339",
+      "discussion_url": "https://news.ycombinator.com/item?id=18341339",
+      "publisher": "Hacker News discussion, comment 18341565",
+      "published_at": "2018-10-30",
+      "retrieved_at": "2026-11-16",
+      "relationship": "first_party",
+      "origin_group": "hn-commentary-on-github-report",
+      "genre": "public_commentary_not_incident_fact_verification",
+      "excerpt": "There is often a trade-off between a large distributed central store and several independent ones.",
+      "dependency_note": "评论者直接表达其架构权衡观点，但事故信息仍基于S1。它是独立评论，不是独立事故调查，也不能作为43秒和24小时11分钟的第二份独立事实证据。"
+    }
+  ],
+  "claims": [
+    {
+      "statement": "据GitHub官方复盘，2018-10-21发生的连接中断43秒后恢复，但随后出现持续24小时11分钟的服务降级。这些时长为官方自报，本案例没有原始监控日志。",
+      "source_ids": ["S1"]
+    },
+    {
+      "statement": "官方将恢复困难与数据库故障切换、应用无法支持的拓扑和跨区域延迟等联系起来，并说明团队优先保持数据完整性，接受部分功能暂停。这里转述其技术解释，没有独立重现该系统。",
+      "source_ids": ["S1"]
+    },
+    {
+      "statement": "同期一条公开评论提出集中分布式存储与多个独立存储之间存在权衡；这可用于提出竞争方案问题，不足以证明分散化在GitHub当时条件下更优。",
+      "source_ids": ["S2"]
+    }
+  ],
+  "supports": "作为辅助案例，它提示研究具体依赖链而非仅观察触发事件，并在恢复方案中说明目标与条件：连接恢复不等于系统恢复，缩短恢复时间与数据一致性可能存在具体取舍。这与P02/P03/P05/P07所关注的调查、具体条件、计划调整和及时纠错有可比较之处；不证明其思想来源或普遍正确性。",
+  "challenges": "不能从本例推出集中一定失败、分散一定成功，或任何恢复延迟都值得。P05中的战略战术尺度与数据库控制层次不是天然同构关系，必须独立论证；不能借原文术语代替数据库知识。",
+  "alternative_explanations": "降级持续时长可能受到备份恢复吞吐、数据库拓扑、跨区延迟、任务队列和团队处置次序共同影响。仅以一个主要原因概括整次事故可能遗漏耦合约束；评论提出的分散存储方案也可能引入额外一致性和运维成本。",
+  "decision_time_information": "官方事后时间线称，团队在事故进程中逐步查询数据库状态、暂停部分写入任务并制定恢复方案。我们没有当时完整可见的监控和决策记录，不能把事后复盘全文当成团队在22:52 UTC已经掌握的信息。",
+  "later_information": "本案例读取的是2018-10-30发布、页面标注2021-12-19更新的官方复盘，以及2018-10-30公开讨论。叙事与归因是事后材料，不用于宣称当时某个备选必然最优。",
+  "limits": "已实际联网读取S1正文及S2 API返回的多条同期评论。技术事实主要来自单一官方报告；S2未形成独立事故事实核验。若干候选媒体链接返回404，搜索页未提供可用结果，未作为成功核验来源。未读取原始监控、内部决策或客户损失数据；未作长期成效跟踪，未改动任何现行skill或核心原则。",
+  "suggested_validation": "如果未来将本例用于应用规则修订，先明确具体依赖和约束，比较集中与分散方案的故障模式、恢复能力、维护成本及普通运行代价；由领域人员审核。"
+}
