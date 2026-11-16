@@ -14,7 +14,12 @@
 
 ## GitHub验证阶段
 
-本记录首次提交时，bootstrap PR、线上Actions和main分支保护尚待执行。完成后将补记真实结果、PR链接及验证提交；本段不构成已启用声明。
+- [Bootstrap PR #1](https://github.com/zhuxinfei/dialectical-strategic-advisor/pull/1) 已合并，main设施提交为 `233bbfd445962994c506fc1016f2aecc5ff0478a`。分支与PR的 verification 均通过，实际包含15项测试和完整性校验。
+- CLI OAuth缺少workflow权限时没有扩权；用户明确允许后，通过已登录Chrome提交两个工作流。远端文件与本地测试文件逐字节一致。
+- [负向验证 PR #2](https://github.com/zhuxinfei/dialectical-strategic-advisor/pull/2)：候选 `47b804a51a6f636e03488326aaa3ec430a4e7061` 仅追加skill测试注释并刷新manifest。可信base门禁失败，日志为 `FAIL: protected change: SKILL.md`；对应check-run的head_sha确实为候选SHA，来源GitHub Actions app 15368。[运行记录](https://github.com/zhuxinfei/dialectical-strategic-advisor/actions/runs/43794628588)。测试PR已关闭，未合并，main skill没有变化。
+- main分支保护PUT后已GET回读：必需 `foundation-guard` 且绑定app 15368、strict=true、enforce_admins=true；禁止force push和删除；要求PR、解决讨论；未要求独立审批票数（个人所有者不能审批本人PR），没有自动合并。
+- 启用保护后PR #2的API `mergeable_state` 为 `blocked`。没有为了试验尝试强行合并底座修改。
+- [正向验证 PR #3](https://github.com/zhuxinfei/dialectical-strategic-advisor/pull/3)：仅更新文档和manifest；候选 `c207e59fc7cbce2f4bb588795f30ce6e31e89fc8` 的 foundation-guard 与 verification 均成功，check-run head_sha为该候选，API合并状态为 `clean`。[门禁运行](https://github.com/zhuxinfei/dialectical-strategic-advisor/actions/runs/43794900353)。本次补记后仍需最新CI通过再手动合并；最终提交和合并状态以PR记录为准。原文含义审核和独立身份限制仍见下节。
 
 ## 不能由本次工程替代的事项
 
