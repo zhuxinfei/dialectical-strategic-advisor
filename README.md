@@ -13,6 +13,17 @@
 
 完整入口见 [SKILL.md](SKILL.md)。
 
+## 持续蒸馏与底座保护
+
+原文精读、论证还原与跨篇综合是主线，联网案例用于辅助检验条件与解释。现行 skill 和既有研究文件保留固定指纹；新增研究、案例和修订提案通过 PR 提交，不自动改变生效规则。
+
+- [技术方案与 checklist](docs/superpowers/plans/2026-11-16-foundation-governance.md)
+- [7 项核心原则候选表](governance/CORE-PRINCIPLES.md)：13 处逐字原文锚点，尚待所有者逐条审核，非完整思想体系清单。
+- [研究、联网取证与维护流程](governance/MAINTENANCE.md)
+- [已联网读取的辅助案例](research/cases/github-2018-outage.json)：区分官方复盘、公开评论与独立事实验证。
+
+`python3 scripts/guard.py verify` 校验指纹、原文锚点和案例结构；`review --base <可信提交> --head <候选提交>` 使用可信base策略拒绝普通研究PR修改底座、检查器和工作流。它们不能自动保证思想忠实度，具体身份与分支保护边界见维护流程。
+
 ## 安装
 
 仓库根目录就是 skill 目录；目录名应保持为 `dialectical-strategic-advisor`。
